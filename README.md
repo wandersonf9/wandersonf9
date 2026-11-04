@@ -12,7 +12,7 @@ Apresentação profissional, tecnologias e projetos web.
 ### [Site institucional da I.A.D.P.A.R.](https://iadpar.netlify.app/)
 Site para apresentar a organização, sua agenda e informações de contato.
 
-### [Agenda Beleza SaaS](https://agenda-beleza-saas.onrender.com/)
+### [Agend Cliente SaaS](https://agend-cliente-saas.onrender.com/)
 Sistema de gestão e agendamentos para salões de beleza, com catálogo de serviços, clientes, agenda e controle de despesas. **Versão beta; código-fonte privado.**
 
 ## Tecnologias
