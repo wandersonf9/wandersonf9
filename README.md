@@ -13,7 +13,7 @@ Apresentação profissional, tecnologias e projetos web.
 Site para apresentar a organização, sua agenda e informações de contato.
 
 ### [Agend Cliente SaaS](https://agend-cliente-saas.onrender.com/)
-Sistema de gestão e agendamentos para salões de beleza, com catálogo de serviços, clientes, agenda e controle de despesas. **Versão beta; código-fonte privado.**
+Sistema de gestão e agendamentos para salões de beleza, estética etc, com catálogo de serviços, clientes, agenda e controle de despesas. **Versão beta; código-fonte privado.**
 
 ## Tecnologias
 
